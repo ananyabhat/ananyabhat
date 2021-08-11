@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello friend! 👋
 
+My name's Ananya (it means "unique" in Kannada) but many of my friends call me Nani! I am a queer Desi-American creative currently based in California. At the moment, I am studying Information Systems at Carnegie Mellon University, with minors in Computer Science and Media Design. I have a love for creating and I strive to make stuff that sparks both joy and wonder in the hearts of others!
+
+When I'm not drawing, you can usually find me making music on my ukulele, gushing over food, or rewatching episodes of Avatar: The Last Airbender. 
 <!--
 **ananyabhat/ananyabhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
